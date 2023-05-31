@@ -122,7 +122,7 @@ Here is a snippet containing all the default values of the `RequestHandler` sect
 
 ## Add trailing slash
 
-This will add a trailing slash to the URL when **`<addTrailingSlash>`** is set to "true".
+This will add a trailing slash to the URL when **`AddTrailingSlash`** is set to "true".
 If you don't want to have a trailing slash, set the value to **false**.
 
 ### Convert URLs to ascii
